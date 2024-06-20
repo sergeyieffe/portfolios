@@ -116,8 +116,8 @@ The portfolio is not just a collection of work samples, it's a strategic tool th
 
 
 ## Local context
-Some advice of local Israeli portfolio scene
+Some advice of local Israeli portfolio scene. Probably a separate article on Medium.
 
 ## Very helpful resources and links
 
-Near 50 well-crafted links on porfolio building and examples 
+Near 50 well-crafted links on porfolio building and examples.
