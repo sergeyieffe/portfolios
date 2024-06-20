@@ -110,4 +110,12 @@ These are the main.
 
 You have to think wisely and define your portfolio strategy to meet the goals of great presentation and further employment in a very well-balanced and optimal way not to waste time on countless reworks and procrastination.   
 
-The portfolio is not just a collection of work samples, it's a strategic tool that can set frontend developers and UX designers apart in a competitive field. By showcasing technical skills, design thinking, and the ability to create impactful user experiences, these portfolios become powerful instruments for career advancement and professional recognition in the dynamic world of digital design and development.
+The portfolio is not just a collection of work samples, it's a strategic tool that can set frontend developers and UX designers apart in a competitive field. By showcasing technical skills, design thinking, and the ability to create impactful user experiences, these portfolios become powerful instruments for career advancement and professional recognition in the dynamic world of digital design and development.  
+
+
+## Local context
+Some advice of local Israeli portfolio scene
+
+## Very helpful resources and links
+
+Near 50 well-crafted links on porfolio building and examples 
