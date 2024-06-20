@@ -102,7 +102,7 @@ https://www.dejan.works
 
 **Showreels / rich media wins!** If you have enough to showcase in your folio you should always think about nicely done and impressive video reel. Minimum +20% of success guaranteed.    
 
-**Try to create your own useful resources:** This works as hell if you want to give your portfolio and personal brand some quality promotion. Cool code snippets, UI elements, nicely-done code snippets, tutorials, web design templates, online courses, e-books. You can even sell it, and earn passive income. And it works! Employees notice that immediately.  
+**Try to create your own useful resources:** This works as hell if you want to give your portfolio and personal brand some quality promotion. Cool code snippets, UI elements, nicely-done scripts for web designing, tutorials, web design templates, online courses, e-books. You can even sell it, and earn passive income. And it works! Employees notice that immediately.  
 
 **Keep reasonable balance anyway:** It's extremely hard and time consuming to create advanced portfolios of many pages hard-coding it from scratch, even if you're great at it. So think about likewise CMS solution maybe (Wordpress is still one of the best). This is anyhow a tough task to maintain a portfolio app/website of more than 20 units.   
 
