@@ -45,8 +45,8 @@ This may seem an easy task to create a starter portfolio like create a prelimina
 
 **Good examples of clear GUI portfolios:**
 
-
-
+[<img align="center" src="media/12769.png" width="60%" >]( https://arthurpetrillo.co/)
+  
 **Great examples of advanced portfolios:**
 
 
