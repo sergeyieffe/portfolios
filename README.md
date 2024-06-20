@@ -49,7 +49,24 @@ https://www.adhamdannaway.com
 
 https://mattfarley.ca
 
+https://www.tomerlerner.com
+
 https://www.fatlady.co.il
+
+https://brittanychiang.com
+
+https://www.cassie.codes
+
+https://meowni.ca
+
+https://neal.fun
+
+https://briceclain.com  
+
+
+
+
+
 
 
 
@@ -65,6 +82,16 @@ https://www.lauren-waller.com
 https://vanholtz.co
 
 https://clarissemichard.com
+
+https://jesse-zhou.com
+
+https://bepatrickdavid.com
+
+https://bruno-simon.com
+
+https://www.dejan.works
+
+
 
 
 
