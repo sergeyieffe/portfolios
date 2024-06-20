@@ -45,10 +45,27 @@ This may seem an easy task to create a starter portfolio like create a prelimina
 
 **Good examples of clear GUI portfolios:**
 
-https://www.sergeyieffe.com
+https://www.adhamdannaway.com
+
+https://mattfarley.ca
+
+https://www.fatlady.co.il
+
+
 
   
-**Great examples of advanced portfolios:**
+**Great examples of advanced portfolios:**  
+
+https://clarissemichard.com
+
+https://www.mozom-1.com
+
+https://www.lauren-waller.com
+
+https://vanholtz.co
+
+https://clarissemichard.com
+
 
 
 
