@@ -21,16 +21,16 @@ UX designers focus on creating intuitive and user-friendly experiences by deeply
 ## Key elements of a UX designer's portfolio:
 **Design Process:** Showcase the journey from initial research and user personas to wireframes, prototypes, and the final product. Highlighting the iterative nature of UX design demonstrates problem-solving skills and user empathy.  
 
-**User Research:** Include case studies that detail how user research insights informed design decisions and led to improved user experiences. Quantitative data, such as usability testing results or analytics, can provide credibility.  
+**User research:** Include case studies that detail how user research insights informed design decisions and led to improved user experiences. Quantitative data, such as usability testing results or analytics, can provide credibility.  
 
-**Visual Design Skills:** While functionality is paramount, visual design still plays a crucial role in UX. Showcase projects that exhibit a strong sense of aesthetics, typography, color theory, and overall design coherence.  
+**Visual design skills:** While functionality is paramount, visual design still plays a crucial role in UX. Showcase projects that exhibit a strong sense of aesthetics, typography, color theory, and overall design coherence.  
 
-**Collaboration and Iteration:** Demonstrate the ability to collaborate with frontend developers, product managers, and stakeholders. Show how feedback and iterations were integrated to refine and enhance the user experience.  
+**Collaboration and iteration:** Demonstrate the ability to collaborate with frontend developers, product managers, and stakeholders. Show how feedback and iterations were integrated to refine and enhance the user experience.  
 
-**Problem Solving:** Highlight projects where UX decisions directly addressed specific challenges or pain points, improving usability metrics or achieving business objectives.  
+**Problem solving:** Highlight projects where UX decisions directly addressed specific challenges or pain points, improving usability metrics or achieving business objectives.  
 
-## General Tips for Both Frontend Developers and UX Designers:
-**Keep it Updated:** Regularly update portfolios with new projects and skills to reflect growth and current trends in web development and UX design.  
+## General tips for both frontend developers and UX designers:
+**Keep it updated:** Regularly update portfolios with new projects and skills to reflect growth and current trends in web development and UX design.  
 
 **Clear navigation:** Ensure the portfolio itself is user-friendly, with clear navigation and intuitive design. This showcases your understanding of UX principles in action.  
 
@@ -42,6 +42,14 @@ UX designers focus on creating intuitive and user-friendly experiences by deeply
 This may seem an easy task to create a starter portfolio like create a preliminary website of three or four main pages "Home", "Works", "About me", "Contact", etc., but it's actually not so. Even when it's done quite nice and accurate, there are several factors of undestinguishness and procrastination. Here a few wise points to give attention to when you work on your new portfolio:  
 
 **Define your own way of design.** Choose your visual and code strategy wisely from the beginning. You can be a conservative like blank background with clear and bold layout and typography, and impress visitors with clearness, clarity, and simplicity of your approach. Or, be "awesome" like "make it amazing" and use geeky, trendy, advanced motion effects, JavaScript features, 3D animations, cool illustrations. That's quite tough! Usually advanced GUI portfolios focus on the latest few coolest projects of the same advanced like like 3-5 projects, while simplified (minimalistic and sophisticated) portfolios are better to contain much more projects and particular snippets of varied complexity like e.g. 15-25 units.  
+
+**Good examples of clear GUI portfolios:**
+
+
+
+**Great examples of advanced portfolios:**
+
+
 
 **Be careful of lame geeky presentation:** While you can notice that advanced code rookies have quirky and even no-css portfolio pages to showcase their design and code. This could work if you have recent few years of work experience with major companies, but novices aren't very welcome with such design of their starter folios.  You have to work it out.  
 
