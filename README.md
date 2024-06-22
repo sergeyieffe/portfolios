@@ -110,7 +110,40 @@ https://www.dejan.works
 
 **Involve more people in the process:** Even if you feel so very confident about your portfolio, and it seems to you shiny and glossy, another pair of eyes can be a great help. Gather some feedback by asking your work for reviews, comments. Ask not only teachers or colleagues, but your friends, even relatives, what they think about your website. If you feel great, submit your website to online design awesomeness communities, such as Awwwards.com, Cssdesignawards.com, and etc.  
 
-These are the main.  
+
+## Comparing Frontend and Full-stack portfolios ##
+
+The portfolios of full stack developers and frontend developers can differ significantly based on their roles and responsibilities. Here are some key differences:
+
+**1. Scope of Work:**
+
+**Frontend Developer Portfolio:** Typically focuses on showcasing proficiency in frontend technologies such as HTML, CSS, JavaScript, and frameworks like React, Angular, or Vue.js. Portfolios often highlight skills in UI/UX design, responsive web design, and creating visually appealing interfaces. Projects may include interactive components, animations, and mobile optimization.
+
+**Full Stack Developer Portfolio:** Covers both frontend and backend development. Besides demonstrating frontend skills, full stack portfolios showcase proficiency in server-side technologies (Node.js, Python/Django, Ruby on Rails, etc.), databases (SQL, NoSQL), and sometimes cloud services (AWS, Azure). Projects often demonstrate the ability to build complete web applications from start to finish, including user authentication, data handling, APIs, and deployment strategies.
+
+**2. Project Complexity:**
+
+**Frontend Developer Portfolio:** Emphasizes projects that highlight advanced frontend techniques, like single-page applications (SPAs), state management with Redux or similar libraries, integrating with RESTful APIs, and using design patterns like MVC (Model-View-Controller) or MVVM (Model-View-ViewModel).
+
+**Full Stack Developer Portfolio:** Includes projects that integrate frontend and backend components. These may involve full CRUD (Create, Read, Update, Delete) operations, user authentication (login/signup), handling data persistence through databases, implementing RESTful APIs or GraphQL, and deploying applications to platforms like Heroku, AWS, or DigitalOcean.
+
+**3. Technologies and Tools:**
+
+**Frontend Developer Portfolio:** Highlights proficiency in frontend libraries and frameworks, CSS preprocessors (like Sass or Less), build tools (Webpack, Babel), and testing frameworks (Jest, Mocha). Design skills and knowledge of UI/UX principles are also crucial.
+
+**Full Stack Developer Portfolio:** Demonstrates versatility across multiple technologies including backend frameworks (Express.js, Flask, Laravel), databases (MySQL, MongoDB), version control (Git), and possibly containerization tools (Docker) or CI/CD pipelines (Jenkins, Travis CI).
+
+**4. Deployment and DevOps:**
+
+**Frontend Developer Portfolio:** Often focuses less on deployment specifics and more on the visual presentation and functionality of the frontend. Deployment may involve basic methods like GitHub Pages or Netlify for static sites.
+
+**Full Stack Developer Portfolio:** Includes details about deployment strategies, scalability considerations, and possibly DevOps skills like container orchestration (using Kubernetes) or server provisioning (using Terraform).
+
+**5. Breadth vs. Depth:**
+
+**Frontend Developer Portfolio:** Typically showcases deep expertise in frontend technologies and design principles. Projects often demonstrate mastery in a narrower set of technologies but with a strong focus on user experience and interface design.
+
+**Full Stack Developer Portfolio:** Demonstrates a broader skill set across both frontend and backend development. Projects may cover a wider range of technologies and show proficiency in integrating complex systems and solving end-to-end development challenges.
 
 You have to think wisely and define your portfolio strategy to meet the goals of great presentation and further employment in a very well-balanced and optimal way not to waste time on countless reworks and procrastination.   
 
