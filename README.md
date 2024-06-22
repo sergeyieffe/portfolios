@@ -145,6 +145,8 @@ The portfolios of full stack developers and frontend developers can differ signi
 
 **Full Stack Developer Portfolio:** Demonstrates a broader skill set across both frontend and backend development. Projects may cover a wider range of technologies and show proficiency in integrating complex systems and solving end-to-end development challenges.
 
+
+  
 You have to think wisely and define your portfolio strategy to meet the goals of great presentation and further employment in a very well-balanced and optimal way not to waste time on countless reworks and procrastination.   
 
 The portfolio is not just a collection of work samples, it's a strategic tool that can set frontend developers and UX designers apart in a competitive field. By showcasing technical skills, design thinking, and the ability to create impactful user experiences, these portfolios become powerful instruments for career advancement and professional recognition in the dynamic world of digital design and development.  
