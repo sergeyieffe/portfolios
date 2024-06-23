@@ -63,21 +63,25 @@ Choose your visual and code strategy wisely from the beginning. You can be a con
 
 #### Good examples of clear GUI portfolios: ####
 
-https://www.adhamdannaway.com
-
-https://mattfarley.ca
-
 https://www.tomerlerner.com
 
 https://www.fatlady.co.il
 
 https://brittanychiang.com
 
+https://www.adhamdannaway.com
+
+https://mattfarley.ca
+
 https://www.cassie.codes
+
+https://fossheim.io
 
 https://meowni.ca
 
 https://neal.fun
+
+https://www.dejan.works
 
 https://briceclain.com  
 
@@ -86,22 +90,19 @@ https://briceclain.com
 
 https://clarissemichard.com
 
-https://www.mozom-1.com
-
 https://www.lauren-waller.com
 
+https://bruno-simon.com
+
 https://vanholtz.co
+
+https://www.mozom-1.com
 
 https://clarissemichard.com
 
 https://jesse-zhou.com
 
 https://bepatrickdavid.com
-
-https://bruno-simon.com
-
-https://www.dejan.works
-
 
   
 ### Be careful of lame geeky presentation ###
