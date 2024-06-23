@@ -1,58 +1,57 @@
 # Crafting Compelling Portfolios: Frontend Web Developers and UX Designers
 
+## Table of contents ##
+
+1. [Summary](https://github.com/sergeyieffe/portfolios?tab=readme-ov-file#summary)  
+2. [Frontend web developers: showcasing technical mastery and innovation](https://github.com/sergeyieffe/portfolios?tab=readme-ov-file#intro)
+3. UX designers: crafting seamless experiences and user-centered designs  
+4. Most important milestones for beginner portfolios  
+5. Comparing Frontend and Full-stack portfolios  
+6. Local Israeli context  
+7. Conclusion  
+8. Helpful resources and links  
+
 ## Summary ##
-
-1 Intro
-2 Frontend web developers: showcasing technical mastery and innovation
-3 UX designers: crafting seamless experiences and user-centered designs
-4 Most important milestones for beginner portfolios
-5 Comparing Frontend and Full-stack portfolios
-6 Local Israeli context
-7 Conclusion
-8 Helpful resources and links
-
-## Intro ##
-
-Frontend web developers and UX designers play pivotal roles in shaping user experiences online. At the heart of their professional identity lies the portfolio—a digital showcase of their skills, creativity, and problem-solving prowess. For these tech-savvy professionals, a well-crafted portfolio isn't just a collection of past projects; it's a strategic tool to demonstrate expertise, attract potential employers or clients, and showcase their unique approach to design and development.
+Frontend and full stack web developers and UX designers play pivotal roles in shaping user experiences online. At the basics of their professional identity is the portfolio — a digital showcase of skills, creativity, and problem-solving prowess. For these tech-savvy professionals a well-crafted portfolio isn't just a collection of past projects, it's a strategic tool to demonstrate expertise, attract potential employers or clients, and showcase their unique approach to design and development for the modern web.
 
 ## Frontend web developers: showcasing technical mastery and innovation
 Frontend web developers are the architects behind the visible parts of websites—the layout, design, and interactivity that users engage with directly. Their portfolios should reflect not only their technical proficiency but also their ability to create intuitive user interfaces that enhance usability and engagement.  
 
-## Key elements of a frontend developer's portfolio
+### Main elements of a frontend developer's portfolio ###
 
-### Project showcase ###
+#### Project showcase ####
 Highlight projects that demonstrate frontend development skills, such as responsive design, CSS animations, and JavaScript interactivity. Each project should showcase different aspects of their technical abilities and creativity.  
 
-### Code samples ### 
+#### Code samples #### 
 Including snippets or links to GitHub repositories can provide deeper insights into their coding style, adherence to best practices, and ability to collaborate on larger projects.  
 
-### Performance metrics ### 
+#### Performance metrics #### 
 Where possible, include performance metrics or case studies showing how their frontend work improved site performance or user satisfaction metrics.  
 
-### Responsive design ### 
+#### Responsive design #### 
 Given the importance of mobile-first design, demonstrate projects that excel in responsive design principles, adapting seamlessly across different devices and screen sizes.  
 
-### Personalization ### 
+#### Personalization #### 
 Personal touches, such as a brief introduction video or a blog discussing frontend development trends or challenges, can help to personalize the portfolio and showcase their passion for the craft.  
 
 ## UX designers: crafting seamless experiences and user-centered designs ##
 UX designers focus on creating intuitive and user-friendly experiences by deeply understanding user behavior and designing interfaces that meet their needs. Their portfolios should emphasize their process, research capabilities, and the impact of their designs on user satisfaction and business goals.
 
-## Key elements of a UX designer's portfolio ##
+### Main elements of a UX designer's portfolio ###
 
-### Design process ###
+#### Design process ####
 Showcase the journey from initial research and user personas to wireframes, prototypes, and the final product. Highlighting the iterative nature of UX design demonstrates problem-solving skills and user empathy.  
 
-### User research ###
+#### User research ####
 Include case studies that detail how user research insights informed design decisions and led to improved user experiences. Quantitative data, such as usability testing results or analytics, can provide credibility.  
 
-### Visual design skills ###
+#### Visual design skills ####
 While functionality is paramount, visual design still plays a crucial role in UX. Showcase projects that exhibit a strong sense of aesthetics, typography, color theory, and overall design coherence.  
 
-### Collaboration and iteration ###
+#### Collaboration and iteration ####
 Demonstrate the ability to collaborate with frontend developers, product managers, and stakeholders. Show how feedback and iterations were integrated to refine and enhance the user experience.  
 
-### Problem solving ###
+#### Problem solving ####
 Highlight projects where UX decisions directly addressed specific challenges or pain points, improving usability metrics or achieving business objectives.  
 
 ## Tips for both frontend developers and UX designers ##
