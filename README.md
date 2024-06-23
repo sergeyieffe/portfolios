@@ -4,12 +4,13 @@
 
 1. [Summary](https://github.com/sergeyieffe/portfolios?tab=readme-ov-file#summary)  
 2. [Frontend web developers: showcasing technical mastery and innovation](https://github.com/sergeyieffe/portfolios?tab=readme-ov-file#frontend-web-developers-showcasing-technical-mastery-and-innovation)
-3. [UX designers: crafting seamless experiences and user-centered designs](https://github.com/sergeyieffe/portfolios?tab=readme-ov-file#frontend-web-developers-showcasing-technical-mastery-and-innovation)  
-4. [Most important milestones for beginner portfolios](https://github.com/sergeyieffe/portfolios?tab=readme-ov-file#frontend-web-developers-showcasing-technical-mastery-and-innovation)
-5. [Comparing Frontend and Full-stack portfolios](https://github.com/sergeyieffe/portfolios?tab=readme-ov-file#frontend-web-developers-showcasing-technical-mastery-and-innovation) 
-6. [Local Israeli context for developers' portfolios](https://github.com/sergeyieffe/portfolios?tab=readme-ov-file#comparing-frontend-and-full-stack-portfolios) 
-7. [Conclusion](https://github.com/sergeyieffe/portfolios/edit/main/README.md#conclusion)
-8. [Helpful resources and links](https://github.com/sergeyieffe/portfolios?tab=readme-ov-file#helpful-resources-and-links)
+3. [UX designers: crafting seamless experiences and user-centered designs](https://github.com/sergeyieffe/portfolios?tab=readme-ov-file#ux-designers-crafting-seamless-experiences-and-user-centered-designs)
+4. [Tips for both frontend developers and UX designers](https://github.com/sergeyieffe/portfolios?tab=readme-ov-file#tips-for-both-frontend-developers-and-ux-designers)
+5. [Most important milestones for beginner portfolios](https://github.com/sergeyieffe/portfolios?tab=readme-ov-file#most-important-milestones-for-beginner-portfolios)
+6. [Comparing Frontend and Full-stack portfolios](https://github.com/sergeyieffe/portfolios?tab=readme-ov-file#comparing-frontend-and-full-stack-portfolios)
+7. [Local Israeli context for developers' portfolios](https://github.com/sergeyieffe/portfolios?tab=readme-ov-file#local-israeli-context-for-developers-portfolios)
+8. [Conclusion](https://github.com/sergeyieffe/portfolios?tab=readme-ov-file#conclusion)
+9. [Helpful resources and links](https://github.com/sergeyieffe/portfolios?tab=readme-ov-file#helpful-resources-and-links)
 
 ## Summary ##
 Frontend and full stack web developers and UX designers play pivotal roles in shaping user experiences online. At the basics of their professional identity is the portfolio — a digital showcase of skills, creativity, and problem-solving prowess. For these tech-savvy professionals a well-crafted portfolio isn't just a collection of past projects, it's a strategic tool to demonstrate expertise, attract potential employers or clients, and showcase their unique approach to design and development for the modern web.
