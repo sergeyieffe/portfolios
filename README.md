@@ -189,7 +189,7 @@ While Hebrew is the primary language in Israel, English proficiency is crucial i
 ### Ethical considerations ###
 Given Israel's geopolitical context, developers may choose to highlight their commitment to ethical practices and social responsibility. This can include involvement in projects that promote diversity, equity, and inclusion (DEI), or initiatives that contribute positively to local or global communities.
 
-## Resuming ##
+## Summary ##
 
 Israeli developers' portfolios adhere to global standards in showcasing technical skills and project accomplishments, they may emphasize specific technologies, cultural influences, and entrepreneurial experiences relevant to Israel's dynamic tech ecosystem. Adaptability, innovation, and a strong ethical stance are often key considerations in crafting effective portfolios for Israeli tech professionals.
 
