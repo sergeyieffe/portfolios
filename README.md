@@ -181,7 +181,7 @@ While Hebrew is the primary language in Israel, English proficiency is crucial i
 #### Ethical considerations ####
 Given Israel's geopolitical context, developers may choose to highlight their commitment to ethical practices and social responsibility. This can include involvement in projects that promote diversity, equity, and inclusion (DEI), or initiatives that contribute positively to local or global communities.
 
-### Some Israeli developers' portfolios ###
+### Some Israeli web developers' portfolios ###
 
 [www.royeyal.com](https://royeyal.com)
 
