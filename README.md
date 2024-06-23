@@ -1,15 +1,15 @@
 # Crafting Compelling Portfolios: Frontend Web Developers and UX Designers
 
-## Table of contents ##
+### Table of contents ###
 
 1. [Summary](https://github.com/sergeyieffe/portfolios?tab=readme-ov-file#summary)  
-2. [Frontend web developers: showcasing technical mastery and innovation](https://github.com/sergeyieffe/portfolios?tab=readme-ov-file#intro)
-3. UX designers: crafting seamless experiences and user-centered designs  
-4. Most important milestones for beginner portfolios  
-5. Comparing Frontend and Full-stack portfolios  
-6. Local Israeli context  
-7. Conclusion  
-8. Helpful resources and links  
+2. [Frontend web developers: showcasing technical mastery and innovation](https://github.com/sergeyieffe/portfolios?tab=readme-ov-file#frontend-web-developers-showcasing-technical-mastery-and-innovation)
+3. [UX designers: crafting seamless experiences and user-centered designs](https://github.com/sergeyieffe/portfolios?tab=readme-ov-file#frontend-web-developers-showcasing-technical-mastery-and-innovation)  
+4. [Most important milestones for beginner portfolios](https://github.com/sergeyieffe/portfolios?tab=readme-ov-file#frontend-web-developers-showcasing-technical-mastery-and-innovation)
+5. [Comparing Frontend and Full-stack portfolios](https://github.com/sergeyieffe/portfolios?tab=readme-ov-file#frontend-web-developers-showcasing-technical-mastery-and-innovation) 
+6. [Local Israeli context for developers' portfolios](https://github.com/sergeyieffe/portfolios?tab=readme-ov-file#comparing-frontend-and-full-stack-portfolios) 
+7. [Conclusion](https://github.com/sergeyieffe/portfolios/edit/main/README.md#conclusion)
+8. [Helpful resources and links](https://github.com/sergeyieffe/portfolios/edit/main/README.md#helpful-resources-and-links)
 
 ## Summary ##
 Frontend and full stack web developers and UX designers play pivotal roles in shaping user experiences online. At the basics of their professional identity is the portfolio — a digital showcase of skills, creativity, and problem-solving prowess. For these tech-savvy professionals a well-crafted portfolio isn't just a collection of past projects, it's a strategic tool to demonstrate expertise, attract potential employers or clients, and showcase their unique approach to design and development for the modern web.
@@ -56,7 +56,7 @@ Highlight projects where UX decisions directly addressed specific challenges or 
 
 ## Tips for both frontend developers and UX designers ##
 
-### Keep it updated ###
+#### Keep it updated ####
 Regularly update portfolios with new projects and skills to reflect growth and current trends in web development and UX design.  
 
 ### Clear navigation ###
@@ -141,66 +141,43 @@ Even if you feel so very confident about your portfolio, and it seems to you shi
 
 
 ## Comparing Frontend and Full-stack portfolios ##
-The portfolios of full stack developers and frontend developers can differ significantly based on their roles and responsibilities. Here are some key differences:
-
-### Scope of work ### 
-
-**Frontend:** Typically focuses on showcasing proficiency in frontend technologies such as HTML, CSS, JavaScript, and frameworks like React, Angular, or Vue.js. Portfolios often highlight skills in UI/UX design, responsive web design, and creating visually appealing interfaces. Projects may include interactive components, animations, and mobile optimization.
-
-**Full stack:** Covers both frontend and backend development. Besides demonstrating frontend skills, full stack portfolios showcase proficiency in server-side technologies (Node.js, Python/Django, Ruby on Rails, etc.), databases (SQL, NoSQL), and sometimes cloud services (AWS, Azure). Projects often demonstrate the ability to build complete web applications from start to finish, including user authentication, data handling, APIs, and deployment strategies.
-
-### Project complexity ### 
-
-**Frontend:** Emphasizes projects that highlight advanced frontend techniques, like single-page applications (SPAs), state management with Redux or similar libraries, integrating with RESTful APIs, and using design patterns like MVC (Model-View-Controller) or MVVM (Model-View-ViewModel).
-
-**Full stack:** Includes projects that integrate frontend and backend components. These may involve full CRUD (Create, Read, Update, Delete) operations, user authentication (login/signup), handling data persistence through databases, implementing RESTful APIs or GraphQL, and deploying applications to platforms like Heroku, AWS, or DigitalOcean.
-
-### Technologies and tools ### 
-
-**Frontend:** Highlights proficiency in frontend libraries and frameworks, CSS preprocessors (like Sass or Less), build tools (Webpack, Babel), and testing frameworks (Jest, Mocha). Design skills and knowledge of UI/UX principles are also crucial.
-
-**Full stack:** Demonstrates versatility across multiple technologies including backend frameworks (Express.js, Flask, Laravel), databases (MySQL, MongoDB), version control (Git), and possibly containerization tools (Docker) or CI/CD pipelines (Jenkins, Travis CI).
-
-###  Deployment and DevOps ### 
-
-**Frontend:** Often focuses less on deployment specifics and more on the visual presentation and functionality of the frontend. Deployment may involve basic methods like GitHub Pages or Netlify for static sites.
-
-**Full stack:** Includes details about deployment strategies, scalability considerations, and possibly DevOps skills like container orchestration (using Kubernetes) or server provisioning (using Terraform).
-
-### Breadth vs. Depth ### 
-
-**Frontend:** Typically showcases deep expertise in frontend technologies and design principles. Projects often demonstrate mastery in a narrower set of technologies but with a strong focus on user experience and interface design.
-
-**Full stack:** Demonstrates a broader skill set across both frontend and backend development. Projects may cover a wider range of technologies and show proficiency in integrating complex systems and solving end-to-end development challenges.
+The portfolios of full stack developers and frontend developers can differ significantly based on their roles and responsibilities. Here are some major differences.
+|                       |  Frontend | Full stack |
+| --------------------- | --------- | ---------- |
+| **Scope of work** | Typically focuses on showcasing proficiency in frontend technologies such as HTML, CSS, JavaScript, and frameworks like React, Angular, or Vue.js. Portfolios often highlight skills in UI/UX design, responsive web design, and creating visually appealing interfaces. Projects may include interactive components, animations, and mobile optimization. | Covers both frontend and backend development. Besides demonstrating frontend skills, full stack portfolios showcase proficiency in server-side technologies (Node.js, Python/Django, Ruby on Rails, etc.), databases (SQL, NoSQL), and sometimes cloud services (AWS, Azure). Projects often demonstrate the ability to build complete web applications from start to finish, including user authentication, data handling, APIs, and deployment strategies. |
+| **Project complexity** |  Emphasizes projects that highlight advanced frontend techniques, like single-page applications (SPAs), state management with Redux or similar libraries, integrating with RESTful APIs, and using design patterns like MVC (Model-View-Controller) or MVVM (Model-View-ViewModel). | Includes projects that integrate frontend and backend components. These may involve full CRUD (Create, Read, Update, Delete) operations, user authentication (login/signup), handling data persistence through databases, implementing RESTful APIs or GraphQL, and deploying applications to platforms like Heroku, AWS, or else. |
+| **Technologies and tools** | Highlights proficiency in frontend libraries and frameworks, CSS preprocessors (like Sass or Less), build tools (Webpack, Babel), and testing frameworks (Jest, Mocha). Design skills and knowledge of UI/UX principles are also crucial. | Demonstrates versatility across multiple technologies including backend frameworks (Express.js, Flask, Laravel), databases (MySQL, MongoDB), version control (Git), and possibly containerization tools (Docker) or CI/CD pipelines (Jenkins, Travis CI). |
+| **Deployment and DevOps** | Often focuses less on deployment specifics and more on the visual presentation and functionality of the frontend. Deployment may involve basic methods like GitHub Pages or Netlify for static sites. | Includes details about deployment strategies, scalability considerations, and possibly DevOps skills like container orchestration (using Kubernetes) or server provisioning (using Terraform). |
+| **Breadth vs. Depth** | Typically showcases deep expertise in frontend technologies and design principles. Projects often demonstrate mastery in a narrower set of technologies but with a strong focus on user experience and interface design. | Demonstrates a broader skill set across both frontend and backend development. Projects may cover a wider range of technologies and show proficiency in integrating complex systems and solving end-to-end development challenges. |
   
 
 
-## Local Israeli context
+## Local Israeli context for developers' portfolios ##
 
 Developers' portfolios mainly align with global standards but may emphasize certain aspects more prominently due to local industry trends, market demands, and cultural preferences. Here are some considerations specific to developers' portfolios in Israel:
 
-### Technological expertise ###
+#### Technological expertise ####
 Israeli tech companies are often at the forefront of innovation, particularly in fields like cybersecurity, AI, and fintech. Portfolios may highlight expertise in relevant technologies such as cloud computing (AWS, Azure), machine learning frameworks (TensorFlow, PyTorch), and blockchain (Ethereum, Hyperledger).
 
-### Startup culture ###
+#### Startup culture ####
 Israel has a vibrant startup ecosystem, particularly in cities like Tel Aviv (often dubbed "Silicon Wadi"). Portfolios might showcase experience with agile methodologies, rapid prototyping, and the ability to work in fast-paced environments typical of startups.
 
-### Military service ###
+#### Military service ####
 Many Israeli developers have military backgrounds, having served in technology-oriented units. Portfolios may indirectly highlight skills developed during military service, such as cybersecurity expertise, data analysis, and structured problem-solving.
 
-### Multicultural teams ###
+#### Multicultural teams ####
 Israeli tech companies often have diverse teams with employees from various cultural backgrounds. Portfolios may emphasize cross-cultural communication skills, adaptability, and experience collaborating with international teams.
 
-### Innovation and impact ### 
+#### Innovation and impact ##### 
 Portfolios might emphasize projects or contributions that demonstrate a clear impact on business outcomes or societal challenges. Israeli tech companies value innovation and solutions-driven approaches, so portfolios might highlight creative problem-solving and entrepreneurial achievements.
 
-### Networking and recommendations ###
+#### Networking and recommendations ####
 Personal connections and recommendations play a significant role in Israeli business culture. Portfolios may include endorsements from colleagues, mentors, or industry professionals to build credibility and demonstrate a strong professional network.
 
-### English proficiency ###
+#### English proficiency ####
 While Hebrew is the primary language in Israel, English proficiency is crucial in the tech industry, especially for portfolios aimed at international companies or clients. Portfolios should be presented in fluent, professional English to cater to global audiences.
 
-### Ethical considerations ###
+#### Ethical considerations ####
 Given Israel's geopolitical context, developers may choose to highlight their commitment to ethical practices and social responsibility. This can include involvement in projects that promote diversity, equity, and inclusion (DEI), or initiatives that contribute positively to local or global communities.
 
 ### Some Israeli developers' portfolios: ###
@@ -225,7 +202,7 @@ https://www.markgerkules.com
 
 
 
-## Summary ##
+## Conclusion ##
 
 Israeli developers' portfolios adhere to global standards in showcasing technical skills and project accomplishments, they may emphasize specific technologies, cultural influences, and entrepreneurial experiences relevant to Israel's dynamic tech ecosystem. Adaptability, innovation, and a strong ethical stance are often key considerations in crafting effective portfolios for Israeli tech professionals.
 
@@ -235,7 +212,7 @@ The portfolio is not just a collection of work samples, it's a strategic tool th
 
 ## Helpful resources and links ##
 
-### Some good "how-to"s ###
+#### Some good "how-to"s ####
 
 https://www.turing.com/kb/steps-to-build-powerful-web-developer-portfolio
 
@@ -244,7 +221,7 @@ https://codingbootcamps.io/resources/web-developer-portfolio-guide/
 https://www.creative-tim.com/blog/education/web-developer-portfolio-website/
 
 
-### Web design awards ###
+#### Inspiration ####
 
 https://www.awwwards.com
 
