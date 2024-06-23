@@ -220,6 +220,8 @@ The portfolio is not just a collection of work samples, it's a strategic tool th
 
 [Web developer portfolio website](https://www.creative-tim.com/blog/education/web-developer-portfolio-website/)
 
+[What are UX portfolios](https://www.interaction-design.org/literature/topics/ux-portfolio)
+
 [5 steps to creating UX-design portfolio](https://www.nngroup.com/articles/ux-design-portfolios/)
 
 
