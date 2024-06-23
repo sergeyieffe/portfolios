@@ -176,9 +176,6 @@ In summary, while Israeli developers' portfolios adhere to global standards in s
 
 ## Very helpful resources and links
 
-Near 50 well-crafted links on porfolio building and examples.
-
-
 ### Some good "how-to"s ###
 
 https://www.turing.com/kb/steps-to-build-powerful-web-developer-portfolio
