@@ -153,7 +153,7 @@ The portfolios of full stack developers and frontend developers can differ signi
 
 ## Local Israeli context for web developers' portfolios ##
 
-Developers' portfolios mainly align with global standards but may emphasize certain aspects more prominently due to local industry trends, market demands, and cultural preferences. 
+Web developers' portfolios mainly align with global standards but may emphasize certain aspects more prominently due to local industry trends, market demands, and cultural preferences. 
 
 ### Considerations specific to developers' portfolios in Israel ###
 
