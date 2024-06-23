@@ -8,7 +8,7 @@
 4. [Tips for both frontend developers and UX designers](https://github.com/sergeyieffe/portfolios?tab=readme-ov-file#tips-for-both-frontend-developers-and-ux-designers)
 5. [Most important milestones for beginner portfolios](https://github.com/sergeyieffe/portfolios?tab=readme-ov-file#most-important-milestones-for-beginner-portfolios)
 6. [Comparing Frontend and Full-stack portfolios](https://github.com/sergeyieffe/portfolios?tab=readme-ov-file#comparing-frontend-and-full-stack-portfolios)
-7. [Local Israeli context for developers' portfolios](https://github.com/sergeyieffe/portfolios?tab=readme-ov-file#local-israeli-context-for-web-developers-portfolios)
+7. [Local Israeli context for web developers' portfolios](https://github.com/sergeyieffe/portfolios?tab=readme-ov-file#local-israeli-context-for-web-developers-portfolios)
 8. [Conclusion](https://github.com/sergeyieffe/portfolios?tab=readme-ov-file#conclusion)
 9. [Helpful resources and links](https://github.com/sergeyieffe/portfolios?tab=readme-ov-file#helpful-resources-and-links)
 
