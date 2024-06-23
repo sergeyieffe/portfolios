@@ -29,7 +29,7 @@ UX designers focus on creating intuitive and user-friendly experiences by deeply
 
 **Problem solving:** Highlight projects where UX decisions directly addressed specific challenges or pain points, improving usability metrics or achieving business objectives.  
 
-## General tips for both frontend developers and UX designers:
+## Tips for both frontend developers and UX designers:
 **Keep it updated:** Regularly update portfolios with new projects and skills to reflect growth and current trends in web development and UX design.  
 
 **Clear navigation:** Ensure the portfolio itself is user-friendly, with clear navigation and intuitive design. This showcases your understanding of UX principles in action.  
@@ -145,16 +145,53 @@ The portfolios of full stack developers and frontend developers can differ signi
 
 **Full Stack Developer Portfolio:** Demonstrates a broader skill set across both frontend and backend development. Projects may cover a wider range of technologies and show proficiency in integrating complex systems and solving end-to-end development challenges.
 
-
+   
   
 You have to think wisely and define your portfolio strategy to meet the goals of great presentation and further employment in a very well-balanced and optimal way not to waste time on countless reworks and procrastination.   
 
 The portfolio is not just a collection of work samples, it's a strategic tool that can set frontend developers and UX designers apart in a competitive field. By showcasing technical skills, design thinking, and the ability to create impactful user experiences, these portfolios become powerful instruments for career advancement and professional recognition in the dynamic world of digital design and development.  
 
 
-## Local context
-Some advice of local Israeli portfolio scene. Probably a separate article on Medium.
+## Local Israeli context
+
+Developers' portfolios mainly align with global standards but may emphasize certain aspects more prominently due to local industry trends, market demands, and cultural preferences. Here are some considerations specific to developers' portfolios in Israel:
+
+**Technological expertise:** Israeli tech companies are often at the forefront of innovation, particularly in fields like cybersecurity, AI, and fintech. Portfolios may highlight expertise in relevant technologies such as cloud computing (AWS, Azure), machine learning frameworks (TensorFlow, PyTorch), and blockchain (Ethereum, Hyperledger).
+
+**Startup culture:** Israel has a vibrant startup ecosystem, particularly in cities like Tel Aviv (often dubbed "Silicon Wadi"). Portfolios might showcase experience with agile methodologies, rapid prototyping, and the ability to work in fast-paced environments typical of startups.
+
+**Military service:** Many Israeli developers have military backgrounds, having served in technology-oriented units like Unit 8200 (Israeli Intelligence Corps). Portfolios may indirectly highlight skills developed during military service, such as cybersecurity expertise, data analysis, and structured problem-solving.
+
+**Multicultural teams:** Israeli tech companies often have diverse teams with employees from various cultural backgrounds. Portfolios may emphasize cross-cultural communication skills, adaptability, and experience collaborating with international teams.
+
+**Innovation and impact:** Portfolios might emphasize projects or contributions that demonstrate a clear impact on business outcomes or societal challenges. Israeli tech companies value innovation and solutions-driven approaches, so portfolios might highlight creative problem-solving and entrepreneurial achievements.
+
+**Networking and recommendations:** Personal connections and recommendations play a significant role in Israeli business culture. Portfolios may include endorsements from colleagues, mentors, or industry professionals to build credibility and demonstrate a strong professional network.
+
+**English proficiency:** While Hebrew is the primary language in Israel, English proficiency is crucial in the tech industry, especially for portfolios aimed at international companies or clients. Portfolios should be presented in fluent, professional English to cater to global audiences.
+
+**Ethical Considerations:** Given Israel's geopolitical context, developers may choose to highlight their commitment to ethical practices and social responsibility. This can include involvement in projects that promote diversity, equity, and inclusion (DEI), or initiatives that contribute positively to local or global communities.
+
+In summary, while Israeli developers' portfolios adhere to global standards in showcasing technical skills and project accomplishments, they may emphasize specific technologies, cultural influences, and entrepreneurial experiences relevant to Israel's dynamic tech ecosystem. Adaptability, innovation, and a strong ethical stance are often key considerations in crafting effective portfolios for Israeli tech professionals.
 
 ## Very helpful resources and links
 
 Near 50 well-crafted links on porfolio building and examples.
+
+
+### Some good "how-to"s ###
+
+https://www.turing.com/kb/steps-to-build-powerful-web-developer-portfolio
+
+https://codingbootcamps.io/resources/web-developer-portfolio-guide/
+
+https://www.creative-tim.com/blog/education/web-developer-portfolio-website/
+
+
+### Web design awards ###
+
+https://www.awwwards.com
+
+https://www.cssdesignawards.com
+
+https://www.thefwa.com
