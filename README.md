@@ -98,7 +98,7 @@ Choose your visual and code strategy wisely from the beginning. You can be a con
 [www.briceclain.com](https://briceclain.com)
 
   
-**Great examples of advanced (rookie) portfolios:**
+**Great examples of advanced portfolios:**
 
 [www.sebastien-lempens.com](https://www.sebastien-lempens.com)
 
