@@ -102,8 +102,6 @@ Choose your visual and code strategy wisely from the beginning. You can be a con
 
 [www.sebastien-lempens.com](https://www.sebastien-lempens.com)
 
-[www.clarissemichard.com](https://clarissemichard.com)
-
 [www.lauren-waller.com](https://www.lauren-waller.com)
 
 [www.bruno-simon.com](https://bruno-simon.com)
