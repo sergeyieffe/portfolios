@@ -1,4 +1,4 @@
-# Crafting Compelling Portfolios: Frontend Web Developers and UX Designers
+# Crafting Compelling Portfolios: Web Developers and UX Designers
 
 ### Table of contents ###
 
