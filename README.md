@@ -120,7 +120,7 @@ Choose your visual and code strategy wisely from the beginning. You can be a con
 #### Be careful of lame geeky presentation ####
 While you can notice that advanced code rookies have quirky and even no-css portfolio pages to showcase their design and code. This could work if you have recent few years of work experience with major companies, but novices aren't very welcome with such design of their starter folios.  You have to work it out.  
 
-#### Do not forget about the power of hype ####
+#### Don't forget about the power of hype ####
 Remember, you even don't have to have your personal website or portfolio, if your codes on GitHub and Codepen.io are popular enough and your have hundreds and thousands of views, likes, and shares of your outstanding frontends. Then your chances are rising exponentially.  
 
 #### Showreels and rich media wins! ####
