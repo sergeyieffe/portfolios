@@ -18,7 +18,7 @@ Frontend and full stack web developers and UX designers play pivotal roles in sh
 ## Frontend web developers: showcasing technical mastery and innovation
 Frontend web developers are the architects behind the visible parts of websites—the layout, design, and interactivity that users engage with directly. Their portfolios should reflect not only their technical proficiency but also their ability to create intuitive user interfaces that enhance usability and engagement.  
 
-### Main elements of a frontend developer's portfolio ###
+### Main aspects of a frontend developer's portfolio ###
 
 #### Project showcase ####
 Highlight projects that demonstrate frontend development skills, such as responsive design, CSS animations, and JavaScript interactivity. Each project should showcase different aspects of their technical abilities and creativity.  
