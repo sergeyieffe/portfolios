@@ -155,7 +155,7 @@ The portfolios of full stack developers and frontend developers can differ signi
 
 Web developers' portfolios mainly align with global standards but may emphasize certain aspects more prominently due to local industry trends, market demands, and cultural preferences. 
 
-### Considerations specific to developers' portfolios in Israel ###
+### Considerations specific to web developers' portfolios in Israel ###
 
 #### Technological expertise ####
 Israeli tech companies are often at the forefront of innovation, particularly in fields like cybersecurity, AI, and fintech. Portfolios may highlight expertise in relevant technologies such as cloud computing (AWS, Azure), machine learning frameworks (TensorFlow, PyTorch), and blockchain (Ethereum, Hyperledger).
