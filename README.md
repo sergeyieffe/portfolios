@@ -129,31 +129,31 @@ Even if you feel so very confident about your portfolio, and it seems to you shi
 ## Comparing Frontend and Full-stack portfolios ##
 The portfolios of full stack developers and frontend developers can differ significantly based on their roles and responsibilities. Here are some key differences:
 
-### 1. Scope of work ### 
+### Scope of work ### 
 
 **Frontend:** Typically focuses on showcasing proficiency in frontend technologies such as HTML, CSS, JavaScript, and frameworks like React, Angular, or Vue.js. Portfolios often highlight skills in UI/UX design, responsive web design, and creating visually appealing interfaces. Projects may include interactive components, animations, and mobile optimization.
 
 **Full stack:** Covers both frontend and backend development. Besides demonstrating frontend skills, full stack portfolios showcase proficiency in server-side technologies (Node.js, Python/Django, Ruby on Rails, etc.), databases (SQL, NoSQL), and sometimes cloud services (AWS, Azure). Projects often demonstrate the ability to build complete web applications from start to finish, including user authentication, data handling, APIs, and deployment strategies.
 
-### 2. Project complexity ### 
+### Project complexity ### 
 
 **Frontend:** Emphasizes projects that highlight advanced frontend techniques, like single-page applications (SPAs), state management with Redux or similar libraries, integrating with RESTful APIs, and using design patterns like MVC (Model-View-Controller) or MVVM (Model-View-ViewModel).
 
 **Full stack:** Includes projects that integrate frontend and backend components. These may involve full CRUD (Create, Read, Update, Delete) operations, user authentication (login/signup), handling data persistence through databases, implementing RESTful APIs or GraphQL, and deploying applications to platforms like Heroku, AWS, or DigitalOcean.
 
-### 3. Technologies and tools ### 
+### Technologies and tools ### 
 
 **Frontend:** Highlights proficiency in frontend libraries and frameworks, CSS preprocessors (like Sass or Less), build tools (Webpack, Babel), and testing frameworks (Jest, Mocha). Design skills and knowledge of UI/UX principles are also crucial.
 
 **Full stack:** Demonstrates versatility across multiple technologies including backend frameworks (Express.js, Flask, Laravel), databases (MySQL, MongoDB), version control (Git), and possibly containerization tools (Docker) or CI/CD pipelines (Jenkins, Travis CI).
 
-###  4. Deployment and DevOps ### 
+###  Deployment and DevOps ### 
 
 **Frontend:** Often focuses less on deployment specifics and more on the visual presentation and functionality of the frontend. Deployment may involve basic methods like GitHub Pages or Netlify for static sites.
 
 **Full stack:** Includes details about deployment strategies, scalability considerations, and possibly DevOps skills like container orchestration (using Kubernetes) or server provisioning (using Terraform).
 
-### 5. Breadth vs. Depth ### 
+### Breadth vs. Depth ### 
 
 **Frontend:** Typically showcases deep expertise in frontend technologies and design principles. Projects often demonstrate mastery in a narrower set of technologies but with a strong focus on user experience and interface design.
 
@@ -188,6 +188,8 @@ While Hebrew is the primary language in Israel, English proficiency is crucial i
 
 ### Ethical considerations ###
 Given Israel's geopolitical context, developers may choose to highlight their commitment to ethical practices and social responsibility. This can include involvement in projects that promote diversity, equity, and inclusion (DEI), or initiatives that contribute positively to local or global communities.
+
+## Resuming ##
 
 Israeli developers' portfolios adhere to global standards in showcasing technical skills and project accomplishments, they may emphasize specific technologies, cultural influences, and entrepreneurial experiences relevant to Israel's dynamic tech ecosystem. Adaptability, innovation, and a strong ethical stance are often key considerations in crafting effective portfolios for Israeli tech professionals.
 
