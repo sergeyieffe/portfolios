@@ -73,7 +73,7 @@ Include a range of projects that demonstrate versatility in tackling different d
 This may seem an easy task to create a starter portfolio like create a preliminary website of three or four main pages "Home", "Works", "About me", "Contact", etc., but it's actually not so. Even when it's done quite nice and accurate, there are several factors of undestinguishness and procrastination. Here a few wise points to give attention to when you work on your new portfolio:  
 
 #### Define your own way of design ####  
-Choose your visual and code strategy wisely from the beginning. You can be a conservative like blank background with clear and bold layout and typography, and impress visitors with clearness, clarity, and simplicity of your approach. Or, be "awesome" like "make it amazing" and use geeky, trendy, advanced motion effects, JavaScript features, 3D animations, cool illustrations. That's quite tough! Usually advanced GUI portfolios focus on the latest few coolest projects of the same advanced like like 3-5 projects, while simplified (minimalistic and sophisticated) portfolios are better to contain much more projects and particular snippets of varied complexity like e.g. 15-25 units.  
+Choose your visual and code strategy wisely from the beginning. You can be a conservative like blank background with clear and bold layout and typography, and impress visitors with clearness, clarity, and simplicity of your approach. Or, be "awesome" like "make it amazing" and use geeky, trendy, advanced motion effects, JavaScript features, 3D animations, cool illustrations. That's quite tough! Usually advanced GUI portfolios focus on the latest few coolest projects of the same level like like 3-5 projects, while simplified (minimalistic and sophisticated) portfolios are better to contain more projects and particular snippets of varied complexity like e.g. 15-25 units.  
 
 #### Good examples of clear GUI portfolios: ####
 
@@ -204,7 +204,7 @@ Given Israel's geopolitical context, developers may choose to highlight their co
 
 Israeli developers' portfolios adhere to global standards in showcasing technical skills and project accomplishments, they may emphasize specific technologies, cultural influences, and entrepreneurial experiences relevant to Israel's dynamic tech ecosystem. Adaptability, innovation, and a strong ethical stance are often key considerations in crafting effective portfolios for Israeli tech professionals.
 
-Web developers have to think wisely and define your portfolio strategy to meet the goals of great presentation and further employment in a very well-balanced and optimal way not to waste time on countless reworks and procrastination.   
+Web developers have to think wisely and define portfolio strategy to meet the goals of great presentation and further employment in a very well-balanced and optimal way not to waste time on countless reworks and procrastination.   
 
 The portfolio is not just a collection of work samples, it's a strategic tool that can set frontend developers and UX designers apart in a competitive field. By showcasing technical skills, design thinking, and the ability to create impactful user experiences, these portfolios become powerful instruments for career advancement and professional recognition in the dynamic world of digital design and development.  
 
