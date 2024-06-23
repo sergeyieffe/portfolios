@@ -8,7 +8,7 @@
 4. [Tips for both frontend developers and UX designers](https://github.com/sergeyieffe/portfolios?tab=readme-ov-file#tips-for-both-frontend-developers-and-ux-designers)
 5. [Most important milestones for beginner portfolios](https://github.com/sergeyieffe/portfolios?tab=readme-ov-file#most-important-milestones-for-beginner-portfolios)
 6. [Comparing Frontend and Full-stack portfolios](https://github.com/sergeyieffe/portfolios?tab=readme-ov-file#comparing-frontend-and-full-stack-portfolios)
-7. [Local Israeli context for developers' portfolios](https://github.com/sergeyieffe/portfolios?tab=readme-ov-file#local-israeli-context-for-developers-portfolios)
+7. [Local Israeli context for developers' portfolios](https://github.com/sergeyieffe/portfolios?tab=readme-ov-file#local-israeli-context-for-web-developers-portfolios)
 8. [Conclusion](https://github.com/sergeyieffe/portfolios?tab=readme-ov-file#conclusion)
 9. [Helpful resources and links](https://github.com/sergeyieffe/portfolios?tab=readme-ov-file#helpful-resources-and-links)
 
@@ -119,25 +119,25 @@ Choose your visual and code strategy wisely from the beginning. You can be a con
 [www.bepatrickdavid.com](https://bepatrickdavid.com)
 
   
-### Be careful of lame geeky presentation ###
+#### Be careful of lame geeky presentation ####
 While you can notice that advanced code rookies have quirky and even no-css portfolio pages to showcase their design and code. This could work if you have recent few years of work experience with major companies, but novices aren't very welcome with such design of their starter folios.  You have to work it out.  
 
-### Do not forget about the power of hype ###
+#### Do not forget about the power of hype ####
 Remember, you even don't have to have your personal website or portfolio, if your codes on GitHub and Codepen.io are popular enough and your have hundreds and thousands of views, likes, and shares of your outstanding frontends. Then your chances are rising exponentially.  
 
-### Showreels and rich media wins! ###
+#### Showreels and rich media wins! ####
 If you have enough to showcase in your folio you should always think about nicely done and impressive video reel. Minimum +20% of success guaranteed.    
 
-### Try to create your own useful resources ###
+#### Try to create your own useful resources ####
 This works as hell if you want to give your portfolio and personal brand some quality promotion. Cool code snippets, UI elements, nicely-done scripts for web designing, tutorials, web design templates, online courses, e-books. You can even sell it, and earn passive income. And it works! Employers notice that immediately.  
 
-### Create your digital presence ###
+#### Create your digital presence ####
 Social media is tough today, it's rather difficult to get enough audience (for free) to be approved by majority of employers. However make it good and share your links and insights at least on X, and Facebook. This will give you good points of seo for your portfolio and some definite promo of your little personal brand on the web search.  
 
-### Keep reasonable balance anyway ###
+#### Keep reasonable balance anyway ####
 It's extremely hard and time consuming to create advanced portfolios of many pages hard-coding it from scratch, even if you're great at it. So think about likewise CMS solution maybe (Wordpress is still one of the best). This is anyhow a tough task to maintain a portfolio app/website of more than 20 units.   
 
-### Involve more people in the process ###
+#### Involve more people in the process ####
 Even if you feel so very confident about your portfolio, and it seems to you shiny and glossy, another pair of eyes can be a great help. Gather some feedback by asking your work for reviews, comments. Ask not only teachers or colleagues, but your friends, even relatives, what they think about your website. If you feel great, submit your website to online design awesomeness communities, such as Awwwards.com, Cssdesignawards.com, and etc.  
 
 
@@ -153,11 +153,11 @@ The portfolios of full stack developers and frontend developers can differ signi
   
 
 
-## Local Israeli context for developers' portfolios ##
+## Local Israeli context for web developers' portfolios ##
 
 Developers' portfolios mainly align with global standards but may emphasize certain aspects more prominently due to local industry trends, market demands, and cultural preferences. 
 
-### Familiar considerations specific to developers' portfolios in Israel ###
+### Considerations specific to developers' portfolios in Israel ###
 
 #### Technological expertise ####
 Israeli tech companies are often at the forefront of innovation, particularly in fields like cybersecurity, AI, and fintech. Portfolios may highlight expertise in relevant technologies such as cloud computing (AWS, Azure), machine learning frameworks (TensorFlow, PyTorch), and blockchain (Ethereum, Hyperledger).
