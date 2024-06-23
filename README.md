@@ -9,7 +9,7 @@
 5. [Comparing Frontend and Full-stack portfolios](https://github.com/sergeyieffe/portfolios?tab=readme-ov-file#frontend-web-developers-showcasing-technical-mastery-and-innovation) 
 6. [Local Israeli context for developers' portfolios](https://github.com/sergeyieffe/portfolios?tab=readme-ov-file#comparing-frontend-and-full-stack-portfolios) 
 7. [Conclusion](https://github.com/sergeyieffe/portfolios/edit/main/README.md#conclusion)
-8. [Helpful resources and links](https://github.com/sergeyieffe/portfolios/edit/main/README.md#helpful-resources-and-links)
+8. [Helpful resources and links](https://github.com/sergeyieffe/portfolios?tab=readme-ov-file#helpful-resources-and-links)
 
 ## Summary ##
 Frontend and full stack web developers and UX designers play pivotal roles in shaping user experiences online. At the basics of their professional identity is the portfolio — a digital showcase of skills, creativity, and problem-solving prowess. For these tech-savvy professionals a well-crafted portfolio isn't just a collection of past projects, it's a strategic tool to demonstrate expertise, attract potential employers or clients, and showcase their unique approach to design and development for the modern web.
@@ -76,46 +76,46 @@ Choose your visual and code strategy wisely from the beginning. You can be a con
 
 #### Good examples of clear GUI portfolios: ####
 
-https://www.tomerlerner.com
+[www.tomerlerner.com](https://www.tomerlerner.com)
 
-https://brittanychiang.com
+[www.brittanychiang.com](https://brittanychiang.com)
 
-https://www.adhamdannaway.com
+[www.adhamdannaway.com](https://www.adhamdannaway.com)
 
-https://mattfarley.ca
+[www.mattfarley.ca](https://mattfarley.ca)
 
-https://www.cassie.codes
+[www.cassie.codes](https://www.cassie.codes)
 
-https://fossheim.io
+[www.fossheim.io](https://fossheim.io)
 
-https://meowni.ca
+[www.meowni.ca](https://meowni.ca)
 
-https://neal.fun
+[www.neal.fun](https://neal.fun)
 
-https://www.dejan.works
+[www.dejan.works](https://www.dejan.works)
 
-https://briceclain.com  
+[www.briceclain.com](https://briceclain.com)  
 
   
-#### Great examples of advanced portfolios: ####
+#### Great examples of advanced (rookie) portfolios: ####
 
-https://clarissemichard.com
+[www.clarissemichard.com](https://clarissemichard.com)
 
-https://www.lauren-waller.com
+[www.lauren-waller.com](https://www.lauren-waller.com)
 
-https://www.sebastien-lempens.com
+[www.sebastien-lempens.com](https://www.sebastien-lempens.com)
 
-https://bruno-simon.com
+[www.bruno-simon.com](https://bruno-simon.com)
 
-https://vanholtz.co
+[www.vanholtz.co](https://vanholtz.co)
 
-https://www.mozom-1.com
+[www.mozom-1.com](https://www.mozom-1.com)
 
-https://clarissemichard.com
+[www.clarissemichard.com](https://clarissemichard.com)
 
-https://jesse-zhou.com
+[www.jesse-zhou.com](https://jesse-zhou.com)
 
-https://bepatrickdavid.com
+[www.bepatrickdavid.com](https://bepatrickdavid.com)
 
   
 ### Be careful of lame geeky presentation ###
@@ -154,7 +154,9 @@ The portfolios of full stack developers and frontend developers can differ signi
 
 ## Local Israeli context for developers' portfolios ##
 
-Developers' portfolios mainly align with global standards but may emphasize certain aspects more prominently due to local industry trends, market demands, and cultural preferences. Here are some considerations specific to developers' portfolios in Israel:
+Developers' portfolios mainly align with global standards but may emphasize certain aspects more prominently due to local industry trends, market demands, and cultural preferences. 
+
+### Familiar considerations specific to developers' portfolios in Israel ###
 
 #### Technological expertise ####
 Israeli tech companies are often at the forefront of innovation, particularly in fields like cybersecurity, AI, and fintech. Portfolios may highlight expertise in relevant technologies such as cloud computing (AWS, Azure), machine learning frameworks (TensorFlow, PyTorch), and blockchain (Ethereum, Hyperledger).
@@ -180,23 +182,23 @@ While Hebrew is the primary language in Israel, English proficiency is crucial i
 #### Ethical considerations ####
 Given Israel's geopolitical context, developers may choose to highlight their commitment to ethical practices and social responsibility. This can include involvement in projects that promote diversity, equity, and inclusion (DEI), or initiatives that contribute positively to local or global communities.
 
-### Some Israeli developers' portfolios: ###
+### Some Israeli developers' portfolios ###
 
-https://royeyal.com
+[www.royeyal.com](https://royeyal.com)
 
-https://www.elicohenator.xyz
+[www.elicohenator.xyz](https://www.elicohenator.xyz)
 
-https://www.fatlady.co.il
+[www.savvy.co.il](https://savvy.co.il)
 
-https://savvy.co.il
+[www.ransegall.com](http://ransegall.com)
 
-http://ransegall.com
+[www.elikr.com](https://elikr.com)
 
-https://elikr.com
+[www.fatlady.co.il](https://www.fatlady.co.il)
 
-https://anatkalinski.com
+[www.anatkalinski.com](https://anatkalinski.com)
 
-https://www.markgerkules.com
+[www.markgerkules.com](https://www.markgerkules.com)
 
 
 
@@ -206,25 +208,25 @@ https://www.markgerkules.com
 
 Israeli developers' portfolios adhere to global standards in showcasing technical skills and project accomplishments, they may emphasize specific technologies, cultural influences, and entrepreneurial experiences relevant to Israel's dynamic tech ecosystem. Adaptability, innovation, and a strong ethical stance are often key considerations in crafting effective portfolios for Israeli tech professionals.
 
-You have to think wisely and define your portfolio strategy to meet the goals of great presentation and further employment in a very well-balanced and optimal way not to waste time on countless reworks and procrastination.   
+Web developers have to think wisely and define your portfolio strategy to meet the goals of great presentation and further employment in a very well-balanced and optimal way not to waste time on countless reworks and procrastination.   
 
 The portfolio is not just a collection of work samples, it's a strategic tool that can set frontend developers and UX designers apart in a competitive field. By showcasing technical skills, design thinking, and the ability to create impactful user experiences, these portfolios become powerful instruments for career advancement and professional recognition in the dynamic world of digital design and development.  
 
 ## Helpful resources and links ##
 
-#### Some good "how-to"s ####
+#### Some good "how-to"-s ####
 
-https://www.turing.com/kb/steps-to-build-powerful-web-developer-portfolio
+[Steps to build powerful web developer portfolio](https://www.turing.com/kb/steps-to-build-powerful-web-developer-portfolio)
 
-https://codingbootcamps.io/resources/web-developer-portfolio-guide/
+[Web developer portfolio guide](https://codingbootcamps.io/resources/web-developer-portfolio-guide/)
 
-https://www.creative-tim.com/blog/education/web-developer-portfolio-website/
+[Web developer portfolio website](https://www.creative-tim.com/blog/education/web-developer-portfolio-website/)
 
 
 #### Inspiration ####
 
-https://www.awwwards.com
+[www.awwwards.com](https://www.awwwards.com)
 
-https://www.cssdesignawards.com
+[www.cssdesignawards.com](https://www.cssdesignawards.com)
 
-https://www.thefwa.com
+[www.thefwa.com](https://www.thefwa.com)
