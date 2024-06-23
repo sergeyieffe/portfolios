@@ -38,7 +38,7 @@ Personal touches, such as a brief introduction video or a blog discussing fronte
 ## UX designers: crafting seamless experiences and user-centered designs ##
 UX designers focus on creating intuitive and user-friendly experiences by deeply understanding user behavior and designing interfaces that meet their needs. Their portfolios should emphasize their process, research capabilities, and the impact of their designs on user satisfaction and business goals.
 
-### Main elements of a UX designer's portfolio ###
+### Main aspects of a UX designer's portfolio ###
 
 #### Design process ####
 Showcase the journey from initial research and user personas to wireframes, prototypes, and the final product. Highlighting the iterative nature of UX design demonstrates problem-solving skills and user empathy.  
