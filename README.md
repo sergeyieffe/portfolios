@@ -1,4 +1,18 @@
 # Crafting Compelling Portfolios: Frontend Web Developers and UX Designers
+
+## Summary ##
+
+1 Intro
+2 Frontend web developers: showcasing technical mastery and innovation
+3 UX designers: crafting seamless experiences and user-centered designs
+4 Most important milestones for beginner portfolios
+5 Comparing Frontend and Full-stack portfolios
+6 Local Israeli context
+7 Conclusion
+8 Helpful resources and links
+
+## Intro ##
+
 Frontend web developers and UX designers play pivotal roles in shaping user experiences online. At the heart of their professional identity lies the portfolio—a digital showcase of their skills, creativity, and problem-solving prowess. For these tech-savvy professionals, a well-crafted portfolio isn't just a collection of past projects; it's a strategic tool to demonstrate expertise, attract potential employers or clients, and showcase their unique approach to design and development.
 
 ## Frontend web developers: showcasing technical mastery and innovation
@@ -220,7 +234,7 @@ You have to think wisely and define your portfolio strategy to meet the goals of
 
 The portfolio is not just a collection of work samples, it's a strategic tool that can set frontend developers and UX designers apart in a competitive field. By showcasing technical skills, design thinking, and the ability to create impactful user experiences, these portfolios become powerful instruments for career advancement and professional recognition in the dynamic world of digital design and development.  
 
-## Very helpful resources and links
+## Helpful resources and links ##
 
 ### Some good "how-to"s ###
 
