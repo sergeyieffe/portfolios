@@ -60,63 +60,63 @@ Highlight projects where UX decisions directly addressed specific challenges or 
 #### Keep it updated ####
 Regularly update portfolios with new projects and skills to reflect growth and current trends in web development and UX design.  
 
-### Clear navigation ###
+#### Clear navigation ####
 Ensure the portfolio itself is user-friendly, with clear navigation and intuitive design. This showcases your understanding of UX principles in action.  
 
-### Tell a story ###
+#### Tell a story #### 
 Use each project to tell a compelling story of challenges faced, solutions devised, and outcomes achieved. Contextualizing your work helps potential employers or clients understand your approach and capabilities.  
 
-### Show diversity ###
+####  Show diversity #### 
 Include a range of projects that demonstrate versatility in tackling different design challenges, industries, or platforms (web, mobile, etc.).  
 
 ## Most important milestones for beginner portfolios ##
 This may seem an easy task to create a starter portfolio like create a preliminary website of three or four main pages "Home", "Works", "About me", "Contact", etc., but it's actually not so. Even when it's done quite nice and accurate, there are several factors of undestinguishness and procrastination. Here a few wise points to give attention to when you work on your new portfolio:  
 
-### Define your own way of design ### 
+#### Define your own way of design ####  
 Choose your visual and code strategy wisely from the beginning. You can be a conservative like blank background with clear and bold layout and typography, and impress visitors with clearness, clarity, and simplicity of your approach. Or, be "awesome" like "make it amazing" and use geeky, trendy, advanced motion effects, JavaScript features, 3D animations, cool illustrations. That's quite tough! Usually advanced GUI portfolios focus on the latest few coolest projects of the same advanced like like 3-5 projects, while simplified (minimalistic and sophisticated) portfolios are better to contain much more projects and particular snippets of varied complexity like e.g. 15-25 units.  
 
-#### Good examples of clear GUI portfolios: ####
+**Good examples of clear GUI portfolios:**
 
-[www.tomerlerner.com](https://www.tomerlerner.com)
+[www.tomerlerner.com](https://www.tomerlerner.com){:target="_blank"}
 
-[www.brittanychiang.com](https://brittanychiang.com)
+[www.brittanychiang.com](https://brittanychiang.com){:target="_blank"}
 
-[www.adhamdannaway.com](https://www.adhamdannaway.com)
+[www.adhamdannaway.com](https://www.adhamdannaway.com){:target="_blank"}
 
-[www.mattfarley.ca](https://mattfarley.ca)
+[www.mattfarley.ca](https://mattfarley.ca){:target="_blank"}
 
-[www.cassie.codes](https://www.cassie.codes)
+[www.cassie.codes](https://www.cassie.codes){:target="_blank"}
 
-[www.fossheim.io](https://fossheim.io)
+[www.fossheim.io](https://fossheim.io){:target="_blank"}
 
-[www.meowni.ca](https://meowni.ca)
+[www.meowni.ca](https://meowni.ca){:target="_blank"}
 
-[www.neal.fun](https://neal.fun)
+[www.neal.fun](https://neal.fun){:target="_blank"}
 
-[www.dejan.works](https://www.dejan.works)
+[www.dejan.works](https://www.dejan.works){:target="_blank"}
 
-[www.briceclain.com](https://briceclain.com)  
+[www.briceclain.com](https://briceclain.com){:target="_blank"}
 
   
-#### Great examples of advanced (rookie) portfolios: ####
+**Great examples of advanced (rookie) portfolios:**
 
-[www.clarissemichard.com](https://clarissemichard.com)
+[www.sebastien-lempens.com](https://www.sebastien-lempens.com){:target="_blank"}
 
-[www.lauren-waller.com](https://www.lauren-waller.com)
+[www.clarissemichard.com](https://clarissemichard.com){:target="_blank"}
 
-[www.sebastien-lempens.com](https://www.sebastien-lempens.com)
+[www.lauren-waller.com](https://www.lauren-waller.com){:target="_blank"}
 
-[www.bruno-simon.com](https://bruno-simon.com)
+[www.bruno-simon.com](https://bruno-simon.com){:target="_blank"}
 
-[www.vanholtz.co](https://vanholtz.co)
+[www.vanholtz.co](https://vanholtz.co){:target="_blank"}
 
-[www.mozom-1.com](https://www.mozom-1.com)
+[www.mozom-1.com](https://www.mozom-1.com){:target="_blank"}
 
-[www.clarissemichard.com](https://clarissemichard.com)
+[www.clarissemichard.com](https://clarissemichard.com){:target="_blank"}
 
-[www.jesse-zhou.com](https://jesse-zhou.com)
+[www.jesse-zhou.com](https://jesse-zhou.com){:target="_blank"}
 
-[www.bepatrickdavid.com](https://bepatrickdavid.com)
+[www.bepatrickdavid.com](https://bepatrickdavid.com){:target="_blank"}
 
   
 ### Be careful of lame geeky presentation ###
@@ -185,24 +185,21 @@ Given Israel's geopolitical context, developers may choose to highlight their co
 
 ### Some Israeli developers' portfolios ###
 
-[www.royeyal.com](https://royeyal.com)
+[www.royeyal.com](https://royeyal.com){:target="_blank"}
 
-[www.elicohenator.xyz](https://www.elicohenator.xyz)
+[www.elicohenator.xyz](https://www.elicohenator.xyz){:target="_blank"}
 
-[www.savvy.co.il](https://savvy.co.il)
+[www.savvy.co.il](https://savvy.co.il){:target="_blank"}
 
-[www.ransegall.com](http://ransegall.com)
+[www.ransegall.com](http://ransegall.com){:target="_blank"}
 
-[www.elikr.com](https://elikr.com)
+[www.elikr.com](https://elikr.com){:target="_blank"}
 
-[www.fatlady.co.il](https://www.fatlady.co.il)
+[www.fatlady.co.il](https://www.fatlady.co.il){:target="_blank"}
 
-[www.anatkalinski.com](https://anatkalinski.com)
+[www.anatkalinski.com](https://anatkalinski.com){:target="_blank"}
 
-[www.markgerkules.com](https://www.markgerkules.com)
-
-
-
+[www.markgerkules.com](https://www.markgerkules.com){:target="_blank"}
 
 
 ## Conclusion ##
@@ -217,17 +214,17 @@ The portfolio is not just a collection of work samples, it's a strategic tool th
 
 #### Some good "how-to"-s ####
 
-[Steps to build powerful web developer portfolio](https://www.turing.com/kb/steps-to-build-powerful-web-developer-portfolio)
+[Steps to build powerful web developer portfolio](https://www.turing.com/kb/steps-to-build-powerful-web-developer-portfolio){:target="_blank"}
 
-[Web developer portfolio guide](https://codingbootcamps.io/resources/web-developer-portfolio-guide/)
+[Web developer portfolio guide](https://codingbootcamps.io/resources/web-developer-portfolio-guide/){:target="_blank"}
 
-[Web developer portfolio website](https://www.creative-tim.com/blog/education/web-developer-portfolio-website/)
+[Web developer portfolio website](https://www.creative-tim.com/blog/education/web-developer-portfolio-website/){:target="_blank"}
 
 
 #### Inspiration ####
 
-[www.awwwards.com](https://www.awwwards.com)
+[www.awwwards.com](https://www.awwwards.com){:target="_blank"}
 
-[www.cssdesignawards.com](https://www.cssdesignawards.com)
+[www.cssdesignawards.com](https://www.cssdesignawards.com){:target="_blank"}
 
-[www.thefwa.com](https://www.thefwa.com)
+[www.thefwa.com](https://www.thefwa.com){:target="_blank"}
