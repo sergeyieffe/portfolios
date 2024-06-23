@@ -75,7 +75,7 @@ This may seem an easy task to create a starter portfolio like create a prelimina
 #### Define your own way of design ####  
 Choose your visual and code strategy wisely from the beginning. You can be a conservative like blank background with clear and bold layout and typography, and impress visitors with clearness, clarity, and simplicity of your approach. Or, be "awesome" like "make it amazing" and use geeky, trendy, advanced motion effects, JavaScript features, 3D animations, cool illustrations. That's quite tough! Usually advanced GUI portfolios focus on the latest few coolest projects of the same advanced like like 3-5 projects, while simplified (minimalistic and sophisticated) portfolios are better to contain much more projects and particular snippets of varied complexity like e.g. 15-25 units.  
 
-**Good examples of clear GUI portfolios:**
+#### Good examples of clear GUI portfolios: ####
 
 [www.tomerlerner.com](https://www.tomerlerner.com)
 
@@ -98,7 +98,7 @@ Choose your visual and code strategy wisely from the beginning. You can be a con
 [www.briceclain.com](https://briceclain.com)
 
   
-**Great examples of advanced portfolios:**
+#### Great examples of advanced portfolios: ####
 
 [www.sebastien-lempens.com](https://www.sebastien-lempens.com)
 
