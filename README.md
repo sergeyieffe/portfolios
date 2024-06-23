@@ -9,16 +9,16 @@ Frontend web developers are the architects behind the visible parts of websitesâ
 ### Project showcase ###
 Highlight projects that demonstrate frontend development skills, such as responsive design, CSS animations, and JavaScript interactivity. Each project should showcase different aspects of their technical abilities and creativity.  
 
-**Code samples** 
+### Code samples ### 
 Including snippets or links to GitHub repositories can provide deeper insights into their coding style, adherence to best practices, and ability to collaborate on larger projects.  
 
-**Performance metrics** 
+### Performance metrics ### 
 Where possible, include performance metrics or case studies showing how their frontend work improved site performance or user satisfaction metrics.  
 
-**Responsive design**
+### Responsive design ### 
 Given the importance of mobile-first design, demonstrate projects that excel in responsive design principles, adapting seamlessly across different devices and screen sizes.  
 
-**Personalization** 
+### Personalization ### 
 Personal touches, such as a brief introduction video or a blog discussing frontend development trends or challenges, can help to personalize the portfolio and showcase their passion for the craft.  
 
 ## UX designers: crafting seamless experiences and user-centered designs ##
@@ -26,7 +26,7 @@ UX designers focus on creating intuitive and user-friendly experiences by deeply
 
 ## Key elements of a UX designer's portfolio ##
 
-### Design Process ###
+### Design process ###
 Showcase the journey from initial research and user personas to wireframes, prototypes, and the final product. Highlighting the iterative nature of UX design demonstrates problem-solving skills and user empathy.  
 
 ### User research ###
@@ -110,7 +110,7 @@ While you can notice that advanced code rookies have quirky and even no-css port
 ### Do not forget about the power of hype ###
 Remember, you even don't have to have your personal website or portfolio, if your codes on GitHub and Codepen.io are popular enough and your have hundreds and thousands of views, likes, and shares of your outstanding frontends. Then your chances are rising exponentially.  
 
-### Showreels / rich media wins! ###
+### Showreels and rich media wins! ###
 If you have enough to showcase in your folio you should always think about nicely done and impressive video reel. Minimum +20% of success guaranteed.    
 
 ### Try to create your own useful resources ###
@@ -129,35 +129,35 @@ Even if you feel so very confident about your portfolio, and it seems to you shi
 ## Comparing Frontend and Full-stack portfolios ##
 The portfolios of full stack developers and frontend developers can differ significantly based on their roles and responsibilities. Here are some key differences:
 
-### 1. Scope of Work ### 
+### 1. Scope of work ### 
 
-**Frontend Developer Portfolio:** Typically focuses on showcasing proficiency in frontend technologies such as HTML, CSS, JavaScript, and frameworks like React, Angular, or Vue.js. Portfolios often highlight skills in UI/UX design, responsive web design, and creating visually appealing interfaces. Projects may include interactive components, animations, and mobile optimization.
+**Frontend:** Typically focuses on showcasing proficiency in frontend technologies such as HTML, CSS, JavaScript, and frameworks like React, Angular, or Vue.js. Portfolios often highlight skills in UI/UX design, responsive web design, and creating visually appealing interfaces. Projects may include interactive components, animations, and mobile optimization.
 
-**Full Stack Developer Portfolio:** Covers both frontend and backend development. Besides demonstrating frontend skills, full stack portfolios showcase proficiency in server-side technologies (Node.js, Python/Django, Ruby on Rails, etc.), databases (SQL, NoSQL), and sometimes cloud services (AWS, Azure). Projects often demonstrate the ability to build complete web applications from start to finish, including user authentication, data handling, APIs, and deployment strategies.
+**Full stack:** Covers both frontend and backend development. Besides demonstrating frontend skills, full stack portfolios showcase proficiency in server-side technologies (Node.js, Python/Django, Ruby on Rails, etc.), databases (SQL, NoSQL), and sometimes cloud services (AWS, Azure). Projects often demonstrate the ability to build complete web applications from start to finish, including user authentication, data handling, APIs, and deployment strategies.
 
-### 2. Project Complexity ### 
+### 2. Project complexity ### 
 
-**Frontend Developer Portfolio:** Emphasizes projects that highlight advanced frontend techniques, like single-page applications (SPAs), state management with Redux or similar libraries, integrating with RESTful APIs, and using design patterns like MVC (Model-View-Controller) or MVVM (Model-View-ViewModel).
+**Frontend:** Emphasizes projects that highlight advanced frontend techniques, like single-page applications (SPAs), state management with Redux or similar libraries, integrating with RESTful APIs, and using design patterns like MVC (Model-View-Controller) or MVVM (Model-View-ViewModel).
 
-**Full Stack Developer Portfolio:** Includes projects that integrate frontend and backend components. These may involve full CRUD (Create, Read, Update, Delete) operations, user authentication (login/signup), handling data persistence through databases, implementing RESTful APIs or GraphQL, and deploying applications to platforms like Heroku, AWS, or DigitalOcean.
+**Full stack:** Includes projects that integrate frontend and backend components. These may involve full CRUD (Create, Read, Update, Delete) operations, user authentication (login/signup), handling data persistence through databases, implementing RESTful APIs or GraphQL, and deploying applications to platforms like Heroku, AWS, or DigitalOcean.
 
-### 3. Technologies and Tools ### 
+### 3. Technologies and tools ### 
 
-**Frontend Developer Portfolio:** Highlights proficiency in frontend libraries and frameworks, CSS preprocessors (like Sass or Less), build tools (Webpack, Babel), and testing frameworks (Jest, Mocha). Design skills and knowledge of UI/UX principles are also crucial.
+**Frontend:** Highlights proficiency in frontend libraries and frameworks, CSS preprocessors (like Sass or Less), build tools (Webpack, Babel), and testing frameworks (Jest, Mocha). Design skills and knowledge of UI/UX principles are also crucial.
 
-**Full Stack Developer Portfolio:** Demonstrates versatility across multiple technologies including backend frameworks (Express.js, Flask, Laravel), databases (MySQL, MongoDB), version control (Git), and possibly containerization tools (Docker) or CI/CD pipelines (Jenkins, Travis CI).
+**Full stack:** Demonstrates versatility across multiple technologies including backend frameworks (Express.js, Flask, Laravel), databases (MySQL, MongoDB), version control (Git), and possibly containerization tools (Docker) or CI/CD pipelines (Jenkins, Travis CI).
 
 ###  4. Deployment and DevOps ### 
 
-**Frontend Developer Portfolio:** Often focuses less on deployment specifics and more on the visual presentation and functionality of the frontend. Deployment may involve basic methods like GitHub Pages or Netlify for static sites.
+**Frontend:** Often focuses less on deployment specifics and more on the visual presentation and functionality of the frontend. Deployment may involve basic methods like GitHub Pages or Netlify for static sites.
 
-**Full Stack Developer Portfolio:** Includes details about deployment strategies, scalability considerations, and possibly DevOps skills like container orchestration (using Kubernetes) or server provisioning (using Terraform).
+**Full stack:** Includes details about deployment strategies, scalability considerations, and possibly DevOps skills like container orchestration (using Kubernetes) or server provisioning (using Terraform).
 
 ### 5. Breadth vs. Depth ### 
 
-**Frontend Developer Portfolio:** Typically showcases deep expertise in frontend technologies and design principles. Projects often demonstrate mastery in a narrower set of technologies but with a strong focus on user experience and interface design.
+**Frontend:** Typically showcases deep expertise in frontend technologies and design principles. Projects often demonstrate mastery in a narrower set of technologies but with a strong focus on user experience and interface design.
 
-**Full Stack Developer Portfolio:** Demonstrates a broader skill set across both frontend and backend development. Projects may cover a wider range of technologies and show proficiency in integrating complex systems and solving end-to-end development challenges.
+**Full stack:** Demonstrates a broader skill set across both frontend and backend development. Projects may cover a wider range of technologies and show proficiency in integrating complex systems and solving end-to-end development challenges.
   
 
 
