@@ -65,8 +65,6 @@ Choose your visual and code strategy wisely from the beginning. You can be a con
 
 https://www.tomerlerner.com
 
-https://www.fatlady.co.il
-
 https://brittanychiang.com
 
 https://www.adhamdannaway.com
@@ -91,6 +89,8 @@ https://briceclain.com
 https://clarissemichard.com
 
 https://www.lauren-waller.com
+
+https://www.sebastien-lempens.com
 
 https://bruno-simon.com
 
@@ -189,6 +189,28 @@ While Hebrew is the primary language in Israel, English proficiency is crucial i
 
 ### Ethical considerations ###
 Given Israel's geopolitical context, developers may choose to highlight their commitment to ethical practices and social responsibility. This can include involvement in projects that promote diversity, equity, and inclusion (DEI), or initiatives that contribute positively to local or global communities.
+
+### Some Israeli developers' portfolios: ###
+
+https://royeyal.com
+
+https://www.elicohenator.xyz
+
+https://www.fatlady.co.il
+
+https://savvy.co.il
+
+http://ransegall.com
+
+https://elikr.com
+
+https://anatkalinski.com
+
+https://www.markgerkules.com
+
+
+
+
 
 ## Summary ##
 
