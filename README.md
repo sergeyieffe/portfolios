@@ -55,7 +55,7 @@ Demonstrate the ability to collaborate with frontend developers, product manager
 #### Problem solving ####
 Highlight projects where UX decisions directly addressed specific challenges or pain points, improving usability metrics or achieving business objectives.  
 
-## Tips for both frontend developers and UX designers ##
+## Tips for both Frontend developers and UX designers ##
 
 #### Keep it updated ####
 Regularly update portfolios with new projects and skills to reflect growth and current trends in web development and UX design.  
