@@ -1,4 +1,4 @@
-# Crafting Compelling Portfolios: Web Developers and UX Designers
+# Crafting compelling portfolios: Web developers and UX designers
 
 ### Table of contents ###
 
