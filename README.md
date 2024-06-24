@@ -1,4 +1,4 @@
-# Crafting compelling portfolios: Web developers and UX designers
+# Crafting Compelling Portfolios: Web Developers and UX Designers
 
 ### Table of contents ###
 
@@ -70,10 +70,10 @@ Use each project to tell a compelling story of challenges faced, solutions devis
 Include a range of projects that demonstrate versatility in tackling different design challenges, industries, or platforms (web, mobile, etc.).  
 
 ## Most important milestones for beginner portfolios ##
-This may seem an easy task to create a starter portfolio like create a preliminary website of three or four main pages "Home", "Works", "About me", "Contact", etc., but it's actually not so. Even when it's done quite nice and accurate, there are several factors of undestinguishness and procrastination. Here a few wise points to give attention to when you work on your new portfolio:  
+This may seem an easy task to create a starter portfolio like creating a preliminary website of three or four main pages "Home", "Works", "About me", "Contact", etc., but it's actually not so. Even when it's done quite nicely and accurately, there are several factors of undestinguishness and procrastination. Here a few wise points to give attention to when you work on your new portfolio:  
 
 #### Define your own way of design ####  
-Choose your visual and code strategy wisely from the beginning. You can be a conservative like blank background with clear and bold layout and typography, and impress visitors with clearness, clarity, and simplicity of your approach. Or, be "awesome" like "make it amazing" and use geeky, trendy, advanced motion effects, JavaScript features, 3D animations, cool illustrations. That's quite tough! Usually advanced GUI portfolios focus on the latest few coolest projects of the same level like like 3-5 projects, while simplified (minimalistic and sophisticated) portfolios are better to contain more projects and particular snippets of varied complexity like e.g. 15-25 units.  
+Choose your visual and code strategy wisely from the beginning. You can be a conservative like blank background with clear and bold layout and typography, and impress visitors with clearness, clarity, and simplicity of your approach. Or, be "awesome" like "make it amazing" and use geeky, trendy, advanced motion effects, JavaScript features, 3D animations, cool illustrations. That's quite tough! Usually advanced GUI portfolios focus on the latest few coolest projects of the same level like 3-5 projects, while simplified (minimalistic and sophisticated) portfolios are better to contain more projects and particular snippets of varied complexity like e.g. 15-25 units.  
 
 #### Good examples of clear GUI portfolios: ####
 
@@ -117,26 +117,26 @@ Choose your visual and code strategy wisely from the beginning. You can be a con
 [www.bepatrickdavid.com](https://bepatrickdavid.com)
 
   
-#### Be careful of lame geeky presentation ####
+#### Be careful of lame geeky presentations ####
 While you can notice that advanced code rookies have quirky and even no-css portfolio pages to showcase their design and code. This could work if you have recent few years of work experience with major companies, but novices aren't very welcome with such design of their starter folios.  You have to work it out.  
 
 #### Don't forget about the power of hype ####
 Remember, you even don't have to have your personal website or portfolio, if your codes on GitHub and Codepen.io are popular enough and your have hundreds and thousands of views, likes, and shares of your outstanding frontends. Then your chances are rising exponentially.  
 
 #### Showreels and rich media wins! ####
-If you have enough to showcase in your folio you should always think about nicely done and impressive video reel. Minimum +20% of success guaranteed.    
+If you have enough to showcase in your folio you should always think about a nicely done and impressive video reel. Minimum +20% of success guaranteed.    
 
 #### Try to create your own useful resources ####
 This works as hell if you want to give your portfolio and personal brand some quality promotion. Cool code snippets, UI elements, nicely-done scripts for web designing, tutorials, web design templates, online courses, e-books. You can even sell it, and earn passive income. And it works! Employers notice that immediately.  
 
 #### Create your digital presence ####
-Social media is tough today, it's rather difficult to get enough audience (for free) to be approved by majority of employers. However make it good and share your links and insights at least on X, and Facebook. This will give you good points of seo for your portfolio and some definite promo of your little personal brand on the web search.  
+Social media is tough today, it's rather difficult to get enough audience (for free) to be approved by the majority of employers. However make it good and share your links and insights at least on X, and Facebook. This will give you good points of seo for your portfolio and some definite promo of your little personal brand on the web search.  
 
 #### Keep reasonable balance anyway ####
-It's extremely hard and time consuming to create advanced portfolios of many pages hard-coding it from scratch, even if you're great at it. So think about likewise CMS solution maybe (Wordpress is still one of the best). This is anyhow a tough task to maintain a portfolio app/website of more than 20 units.   
+It's extremely hard and time consuming to create advanced portfolios of many pages, hard-coding it from scratch, even if you're great at it. So think about a similar CMS solution maybe (Wordpress is still one of the best). This is anyhow a tough task to maintain a portfolio app/website of more than 20 units.   
 
 #### Involve more people in the process ####
-Even if you feel so very confident about your portfolio, and it seems to you shiny and glossy, another pair of eyes can be a great help. Gather some feedback by asking your work for reviews, comments. Ask not only teachers or colleagues, but your friends, even relatives, what they think about your website. If you feel great, submit your website to online design awesomeness communities, such as Awwwards.com, Cssdesignawards.com, and etc.  
+Even if you feel so very confident about your portfolio, and it seems shiny and glossy, another pair of eyes can be a great help. Gather some feedback by asking your work for reviews, comments. Ask not only teachers or colleagues, but your friends, even relatives, what they think about your website. If you feel great, submit your website to online design awesomeness communities, such as Awwwards.com, Cssdesignawards.com, and etc.  
 
 
 ## Comparing Frontend and Full-stack portfolios ##
