@@ -187,15 +187,9 @@ Given Israel's geopolitical context, developers may choose to highlight their co
 
 [www.elicohenator.xyz](https://www.elicohenator.xyz)
 
-[www.savvy.co.il](https://savvy.co.il)
-
 [www.ransegall.com](http://ransegall.com)
 
 [www.elikr.com](https://elikr.com)
-
-[www.fatlady.co.il](https://www.fatlady.co.il)
-
-[www.anatkalinski.com](https://anatkalinski.com)
 
 [www.markgerkules.com](https://www.markgerkules.com)
 
